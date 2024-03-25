@@ -8,4 +8,4 @@ The second approach, although more labor-intensive, showed greater potential for
 
 This project outlines a viable pathway for leveraging document-oriented multimodal models to effectively extract key information from a diverse set of documents, starting from the ground up with data annotation and leading to the successful training of such models.
 
-The code for the impleemtaion based on this Github repository: https://github.com/manikanthp/LayoutLMV3_Fine_Tuning
+The implementation code is based on the GitHub repository available at: https://github.com/manikanthp/LayoutLMV3_Fine_Tuning
