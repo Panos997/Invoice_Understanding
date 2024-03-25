@@ -7,3 +7,5 @@ In the absence of pre-existing annotations, the first approach adopted a straigh
 The second approach, although more labor-intensive, showed greater potential for accurately completing the task. It involved the fine-tuning of LayoutLMv3. Consequently, all 180 documents were annotated by us, resulting in over 600 annotations. By employing LayoutLMv3-base and training it for just a few epochs, we achieved impressive results.
 
 This project outlines a viable pathway for leveraging document-oriented multimodal models to effectively extract key information from a diverse set of documents, starting from the ground up with data annotation and leading to the successful training of such models.
+
+The code for the impleemtaion based on this Github repository: https://github.com/manikanthp/LayoutLMV3_Fine_Tuning
